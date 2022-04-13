@@ -1,0 +1,6 @@
+name: Hide Publish & Revisions
+description: Hides publish and revision UI for sites not wishing to use those mechanisms.
+package: In the Loft Studios
+type: module
+core_version_requirement: ^8 || ^9
+version: 8.x-0.0.1
