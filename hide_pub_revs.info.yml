@@ -3,4 +3,4 @@ description: Hides publish and revision UI for sites not wishing to use those me
 package: In the Loft Studios
 type: module
 core_version_requirement: '>=8'
-version: 0.0.2
+version: 0.0.3
