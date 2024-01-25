@@ -1,7 +1,7 @@
 {
     "name": "drupal/hide_pub_revs",
     "description": "Drupal module to hide publish and revision UI.",
-    "type": "drupal-module",
+    "type": "drupal-custom-module",
     "authors": [
         {
             "name": "Aaron Klump",
